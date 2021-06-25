@@ -1,2 +1,2 @@
 # ProblemSolving
-solve some problems from different online judges
+Solving some problems from different online judges
