@@ -1,4 +1,4 @@
-package GrayCode;
+package Leetcode.GrayCode;
 
 import java.util.ArrayList;
 import java.util.List;
